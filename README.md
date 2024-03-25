@@ -1,5 +1,5 @@
 ### About:
-These are some projects I made while learning x86 Assembly.
+Simple HTTP webserver using C/C++.
 
 ### Requirements:
 - Docker
