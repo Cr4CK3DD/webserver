@@ -6,5 +6,5 @@ These are some projects I made while learning x86 Assembly.
 
 ### Build:
 ```
-  ./build-docker.bat
+  ./docker-build.bat
 ```
